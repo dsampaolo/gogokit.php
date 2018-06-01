@@ -1,6 +1,6 @@
 {
-    "name": "viagogo/gogokit",
-    "description": "Viagogo API SDK for PHP",
+    "name": "dsampaolo/gogokit",
+    "description": "Viagogo API SDK for PHP - fork to upgrade Guzzle",
     "keywords": ["viagogo", "sdk"],
     "type": "library",
     "homepage": "https://github.com/viagogo/gogokit.php",
